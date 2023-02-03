@@ -6,7 +6,7 @@
   
   <h2 align=center>Finished 42 projects</h2>
   
-   <a href="https://github.com/angelamcosta/libft" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/libfte.png"></a> <a href="https://github.com/angelamcosta/printf" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_printfe.png"></a>
+   <a href="https://github.com/Chukyy712/42-libft" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/libfte.png"></a> <a href="https://github.com/Chukyy712/ft_printf" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_printfe.png"></a>
   </div>
 </div>
 
